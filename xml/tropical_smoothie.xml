@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8">
+<recipe>
+<name>Tropical Smoothie</name>
+<description>Refreshing coconut water and tropical fruit smoothie.</description>
+<ingredients>
+    <ingredient>
+        <measurement>
+            <number-of>2</number-of>
+        </measurement>
+        <name>banana</name>
+    </ingredient>
+    <ingredient>
+        <measurement>
+            <number-of>1</number-of>
+            <scale>cup</scale>
+        </measurement>
+        <name>mango</name>
+        <state-of>frozen</state-of>
+    </ingredient>
+    <ingredient>
+        <measurement>
+            <number-of>1</number-of>
+            <scale>cup</scale>
+        </measurement>
+        <name>pineapple</name>
+        <state-of>frozen</state-of>
+    </ingredient>
+    <ingredient>
+        <measurement>
+            <number-of>1</number-of>
+            <scale>cup</scale>
+        </measurement>
+        <name>coconut water</name>
+    </ingredient>
+    <ingredient>
+        <measurement>
+            <number-of>2</number-of>
+            <scale>cup</scale>
+        </measurement>
+        <name>spinach</name>
+    </ingredient>
+</ingredients>
+<procedure id="smoothie" appliance="blender"/>
+<nutrition>
+<serving>1</serving>
+<calories>399</calories>
+<fat><number-of>1.5</number-of><scale>grams</scale></fat>
+<saturated-fat><number-of>0.7</number-of><scale>grams</scale></saturated-fat>
+<carbohydrates><number-of>98</number-of><scale>grams</scale></carbohydrates>
+<dietary-fiber><number-of>12.1</number-of><scale>grams</scale></dietary-fiber>
+<sugar><number-of>63.4</number-of><scale>grams</scale></sugar>
+<protein><number-of>7</number-of><scale>grams</scale></protein>
+<cholesterol><number-of>0</number-of><scale>milligrams</scale></cholesterol>
+<sodium><number-of>312</number-of><scale>milligrams</scale></sodium>
+<vitamins>
+    <vitamin name="vitamin d"><number-of>0</number-of><scale>micrograms</scale</vitamin>
+    <vitamin name="calcium"><number-of>149</number-of><scale>milligrams</scale></vitamin>
+    <vitamin name="iron"><number-of>3</number-of><scale>milligrams</scale></vitamin>
+    <vitamin name="potassium"><number-of>1780</number-of><scale>milligrams</scale></vitamin>
+</vitamins>
+</nutrition>
+<!-- 2.5 servings is 160 cals -->
+</recipe>

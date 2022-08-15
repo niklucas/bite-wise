@@ -1,0 +1,7 @@
+<procedure id="smoothie" appliance="blender"/>
+    <appliance>blender</appliance>
+    <note>Blenders work best when ingredients are added in the following order: liquids, fine powders, soft ingredients, creamy ingredients, frozen or hard ingredients.</note>
+    <step>Add all ingredients to the blender.</step>
+    <step>Blend on high for two minutes. If your blender has a smoothie setting, blend until finished.</step>
+</procedure>
+
